@@ -1,0 +1,3 @@
+[submodule "submodtest"]
+	path = submodtest
+	url = git@github.com:adiletD/submodtest.git
